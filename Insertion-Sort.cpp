@@ -8,7 +8,7 @@ int main(){
 			cout << "=";
 		}
 	}
-	cout << "\n\tI\tN\tS\tE\tR\tT\tI\tO\tN\t \tS\tO\tR\tTn";
+	cout << "\n\tI\tN\tS\tE\tR\tT\tI\tO\tN\t \tS\tO\tR\tT\n";
 	for(int r = 1; r <= 15; ++r){
 		for(int i = 1; i <= 8; i+=1){
 			cout << "=";
